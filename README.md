@@ -1,12 +1,11 @@
 # MercadoLibre's .NET SDK
 
-This is the official .NET SDK for MercadoLibre's Platform.
+Esse é a API oficial do mercado livre para SDK .NET
 
 ## How do I install it?
 
-You can download the latest build at: 
-    http://github.com/mercadolibre/net-sdk/downloads
-
+Você pode baixar o ultimo build aqui.
+https://github.com/uiugor/APIMERCADOLIVRE/archive/master.zip
 And that's it!
 
 ## How do I start using it?
